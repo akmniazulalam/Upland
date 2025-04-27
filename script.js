@@ -65,3 +65,4 @@ $(document).ready(function () {
       maxWidth: '800px',
     });
   });
+
