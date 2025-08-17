@@ -5,12 +5,16 @@
     --spacing-menu: 50px; 
     --spacing-my: 1143px; 
     --spacing-header: 1350px; 
+
     --color-primary: #FF6231;
     --color-pC: #888888;
+
     --font-roboto: "Roboto", "sans-serif"; 
     --font-darker: "Darker Grotesque", "sans-serif"; 
     --font-codystar: "Codystar", "sans-serif"; 
+
     --radius-20: 20px;
+
     --shadow-box: 0 10px 20px rgba(47,21,135,.06);
     --shadow-button: 0 5px 10px rgba(252,104,58,.25);
     --shadow-btnH: 0 5px 20px rgba(252,104,58,.45);
